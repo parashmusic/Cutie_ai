@@ -1,0 +1,7 @@
+PyQt5>=5.15
+qtawesome>=1.2
+llama-cpp-python>=0.3
+speechrecognition>=3.8
+pyttsx3>=2.90
+psutil>=5.9
+pyautogui>=0.9

@@ -1,0 +1,15 @@
+# Virtual env
+.venv/
+__pycache__/
+*.pyc
+
+# Models
+models/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
